@@ -30,9 +30,9 @@ Then call it in views:
 
     quid(line_item.price)
 
+--------------------------------------
 
-
-        rails generate migration drop_tablename
+    rails generate migration drop_tablename
 
 & then update the below file:
 
